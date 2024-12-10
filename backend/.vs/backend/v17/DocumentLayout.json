@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ecommerce-shoes-store\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|d:\\ecommerce-shoes-store\\backend\\backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|solutionrelative:backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|d:\\ecommerce-shoes-store\\backend\\backend\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|solutionrelative:backend\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|d:\\ecommerce-shoes-store\\backend\\backend\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|solutionrelative:backend\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|d:\\ecommerce-shoes-store\\backend\\backend\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|solutionrelative:backend\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|d:\\ecommerce-shoes-store\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|d:\\ecommerce-shoes-store\\backend\\backend\\entities\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|solutionrelative:backend\\entities\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|d:\\ecommerce-shoes-store\\backend\\backend\\migrations\\ecommercedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|solutionrelative:backend\\migrations\\ecommercedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|d:\\ecommerce-shoes-store\\backend\\backend\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|solutionrelative:backend\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|d:\\ecommerce-shoes-store\\backend\\backend\\repositories\\entitiesrepo\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|solutionrelative:backend\\repositories\\entitiesrepo\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|d:\\ecommerce-shoes-store\\backend\\backend\\repositories\\entitiesrepo\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|solutionrelative:backend\\repositories\\entitiesrepo\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|d:\\ecommerce-shoes-store\\backend\\backend\\repositories\\entitiesrepo\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|solutionrelative:backend\\repositories\\entitiesrepo\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\ecommerce-shoes-store\\backend\\backend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\ecommerce-shoes-store\\backend\\backend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "backend\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAswEYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T06:28:25.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "D:\\ecommerce-shoes-store\\backend\\backend\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\CustomersController.cs",
+              "ToolTip": "D:\\ecommerce-shoes-store\\backend\\backend\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "backend\\Controllers\\CustomersController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwEsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T06:26:50.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\ecommerce-shoes-store\\backend\\backend\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\ecommerce-shoes-store\\backend\\backend\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "backend\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAcwB4AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T22:51:44.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\ecommerce-shoes-store\\backend\\backend\\Dtos\\ProductDto.cs",
+              "RelativeDocumentMoniker": "backend\\Dtos\\ProductDto.cs",
+              "ToolTip": "D:\\ecommerce-shoes-store\\backend\\backend\\Dtos\\ProductDto.cs",
+              "RelativeToolTip": "backend\\Dtos\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T21:59:21.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ecommerce-shoes-store\\backend\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\Program.cs",
+              "ToolTip": "D:\\ecommerce-shoes-store\\backend\\backend\\Program.cs",
+              "RelativeToolTip": "backend\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAArwGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T22:25:08.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EcommerceDBContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\ecommerce-shoes-store\\backend\\backend\\Migrations\\EcommerceDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "backend\\Migrations\\EcommerceDBContextModelSnapshot.cs",
+              "ToolTip": "D:\\ecommerce-shoes-store\\backend\\backend\\Migrations\\EcommerceDBContextModelSnapshot.cs",
+              "RelativeToolTip": "backend\\Migrations\\EcommerceDBContextModelSnapshot.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:27:52.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EcommerceDBContext.cs",
+              "DocumentMoniker": "D:\\ecommerce-shoes-store\\backend\\backend\\Entities\\EcommerceDBContext.cs",
+              "RelativeDocumentMoniker": "backend\\Entities\\EcommerceDBContext.cs",
+              "ToolTip": "D:\\ecommerce-shoes-store\\backend\\backend\\Entities\\EcommerceDBContext.cs",
+              "RelativeToolTip": "backend\\Entities\\EcommerceDBContext.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:28:16.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GenericRepo.cs",
+              "DocumentMoniker": "D:\\ecommerce-shoes-store\\backend\\backend\\Repositories\\EntitiesRepo\\GenericRepo.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\EntitiesRepo\\GenericRepo.cs",
+              "ToolTip": "D:\\ecommerce-shoes-store\\backend\\backend\\Repositories\\EntitiesRepo\\GenericRepo.cs",
+              "RelativeToolTip": "backend\\Repositories\\EntitiesRepo\\GenericRepo.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAqwDcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:07:38.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "D:\\ecommerce-shoes-store\\backend\\backend\\Repositories\\EntitiesRepo\\IRepo.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\EntitiesRepo\\IRepo.cs",
+              "ToolTip": "D:\\ecommerce-shoes-store\\backend\\backend\\Repositories\\EntitiesRepo\\IRepo.cs",
+              "RelativeToolTip": "backend\\Repositories\\EntitiesRepo\\IRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:05:41.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductRepo.cs",
+              "DocumentMoniker": "D:\\ecommerce-shoes-store\\backend\\backend\\Repositories\\EntitiesRepo\\ProductRepo.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\EntitiesRepo\\ProductRepo.cs",
+              "ToolTip": "D:\\ecommerce-shoes-store\\backend\\backend\\Repositories\\EntitiesRepo\\ProductRepo.cs",
+              "RelativeToolTip": "backend\\Repositories\\EntitiesRepo\\ProductRepo.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:05:23.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\ecommerce-shoes-store\\backend\\backend\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "backend\\Entities\\Product.cs",
+              "ToolTip": "D:\\ecommerce-shoes-store\\backend\\backend\\Entities\\Product.cs",
+              "RelativeToolTip": "backend\\Entities\\Product.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAUwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T21:59:54.178Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
